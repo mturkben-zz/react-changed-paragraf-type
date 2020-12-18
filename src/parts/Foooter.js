@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
 import "./pages.css";
-class Navbar extends Component {
+class Footer extends Component {
     render() {
         return (
             <div className="container">
                 <div className="row">
-                    <div style={{backgroundColor:"#EAF3FA",height:"150px"}} className="d-flex justify-content-center align-items-center fixed-bottom">
+                    <div style={{backgroundColor:"#EAF3FA",height:"150px"}} className="position-relative d-flex justify-content-center align-items-center fixed-bottom">
                         <div className="col-12">
                             <div className="text-center">
                                 <section>
@@ -22,4 +22,4 @@ class Navbar extends Component {
         )
     }
 }
-export default Navbar;
+export default Footer;

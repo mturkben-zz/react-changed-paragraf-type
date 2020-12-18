@@ -7,10 +7,10 @@
             "backgroundColor": "blue",
             "padding": "10px"
         },
-        "paraf": "This is Paraf 1"
+        "paraf": "React-changed-paragraf-type 1"
     }, {
         "name": "React-changed-paragraf-type",
-        "paraf": "React-changed-paragraf-type",
+        "paraf": "React-changed-paragraf-type 2",
         "style": {
             "padding": "10px",
             "marginTop": "100px",

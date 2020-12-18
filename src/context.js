@@ -10,8 +10,8 @@ export class Provider extends Component {
       headerTypes : []
     }
   }
-    componentDidMount = async () => {
-      await this.dataFetch();
+    componentDidMount = () => {
+       this.dataFetch();
     }
     dataFetch = () => {
         fetch("http://localhost:3004/headerTypes", {
