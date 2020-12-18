@@ -15,7 +15,7 @@ class Navbar extends Component {
                         </div>
                         <div className="col-6">
                             <div  className="text-center">
-                                <h3>by <a style={{textDecoration:"none"}} href="https://github.com/mturkben" target="_blank">@mturkben</a></h3>
+                                <h3>by <a style={{textDecoration:"none"}} href="https://github.com/mturkben" target="_blank" rel="noreferrer">@mturkben</a></h3>
                             </div>
                         </div>
                     </div>
