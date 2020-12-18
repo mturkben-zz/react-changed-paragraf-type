@@ -64,7 +64,6 @@ class AddHeader extends Component {
       <Consumer>
         {
           value => {
-            const {dispatch} = value;
             return (
               <div className="container">
                 <div className="row">
