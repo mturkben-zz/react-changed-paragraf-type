@@ -1,0 +1,27 @@
+{
+    "headerTypes": [{
+        "id": "4gdqwe",
+        "name": "Type 1",
+        "style": {
+            "color": "red",
+            "backgroundColor": "blue",
+            "padding": "10px"
+        },
+        "paraf": "This is Paraf 1"
+    }, {
+        "name": "React-changed-paragraf-type",
+        "paraf": "React-changed-paragraf-type",
+        "style": {
+            "padding": "10px",
+            "marginTop": "100px",
+            "fontSize": "24px",
+            "color": "white",
+            "backgroundColor": "darkslategray",
+            "borderRadius": "10px",
+            "display": "flex",
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "id": "iN6h3AF"
+    }]
+}
