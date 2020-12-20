@@ -14,7 +14,7 @@ export class Provider extends Component {
        this.dataFetch();
     }
     dataFetch = () => {
-        fetch("http://localhost:3004/headerTypes", {
+        fetch("http://localhost:3050/headerTypes", {
           method: "GET",
           headers: {
             Accept: "application/json",

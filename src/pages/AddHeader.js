@@ -41,7 +41,7 @@ class AddHeader extends Component {
       })
       return;
     }
-    await fetch("http://localhost:3004/headerTypes", {
+    await fetch("http://localhost:3050/headerTypes", {
       method: "POST",
       headers: {
         Accept: "application/json",
